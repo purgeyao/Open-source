@@ -1,0 +1,5 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.freshtxp.dynamic.config.DynamicConfigBootstrapConfiguration
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.freshtxp.dynamic.config.DynamicConfigAutoConfiguration

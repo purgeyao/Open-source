@@ -1,0 +1,23 @@
+server:
+  port: 7777
+
+spring:
+  application:
+    name: application
+  cloud:
+    nacos:
+      config:
+        access-key: LTAImY8S8cmswlqJ
+        active-profiles:
+          - application
+          - test
+        endpoint: acm.aliyun.com
+        file-extension: properties
+        namespace: 832838ad-2e82-4734-84da-578e99f9904a
+        secret-key: FgJkmZd5tZUTE8TQ5Tiy80Pq9u2zEK
+        lists:
+          - lisi
+          - zhaoliu
+
+local:
+  name: 123
