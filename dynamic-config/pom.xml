@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.freshtxp</groupId>
-    <artifactId>dynamic</artifactId>
+    <artifactId>dynamic-config</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
 
