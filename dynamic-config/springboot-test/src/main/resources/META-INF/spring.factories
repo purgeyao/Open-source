@@ -1,0 +1,9 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.txp.config.TxpConfigBootstrapConfiguration
+
+
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#com.txp.config.TxpConfigBootstrapConfiguration
+
+org.springframework.context.ApplicationContextInitializer=\
+com.txp.config.MyApplicationContextInitializer

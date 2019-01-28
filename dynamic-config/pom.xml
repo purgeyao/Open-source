@@ -12,6 +12,7 @@
     <modules>
         <module>txp-dynamic-config</module>
         <module>springboot-test</module>
+        <module>nacos-config</module>
     </modules>
 
 </project>
