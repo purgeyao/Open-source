@@ -1,6 +1,6 @@
 package com.txp.controller;
 
-import com.txp.TestUser;
+import com.txp.entity.TestUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;

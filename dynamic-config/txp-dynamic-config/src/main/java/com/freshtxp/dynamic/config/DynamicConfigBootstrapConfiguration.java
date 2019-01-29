@@ -16,7 +16,7 @@ import org.springframework.context.annotation.Configuration;
 public class DynamicConfigBootstrapConfiguration {
 
     @Bean
-    public DynamicPropertySourceLocator myPropertySourceLocator() {
+    public DynamicPropertySourceLocator dynamicPropertySourceLocator() {
         return new DynamicPropertySourceLocator();
     }
 

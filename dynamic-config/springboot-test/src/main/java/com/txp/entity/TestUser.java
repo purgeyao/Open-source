@@ -1,4 +1,4 @@
-package com.txp;
+package com.txp.entity;
 
 import lombok.Data;
 import lombok.ToString;

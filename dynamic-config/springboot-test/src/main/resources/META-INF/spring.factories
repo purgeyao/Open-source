@@ -5,5 +5,21 @@ com.txp.config.TxpConfigBootstrapConfiguration
 #org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 #com.txp.config.TxpConfigBootstrapConfiguration
 
+
+org.springframework.boot.SpringApplicationRunListener=\
+com.txp.listener.MySpringApplicationRunListener
+
 org.springframework.context.ApplicationContextInitializer=\
-com.txp.config.MyApplicationContextInitializer
+com.txp.initializer.MyApplicationContextInitializer
+
+
+org.springframework.context.ApplicationListener=\
+com.txp.listener.ApplicationListenerEnvironmentPrepared,\
+com.txp.listener.ApplicationListenerFailed,\
+com.txp.listener.ApplicationListenerPrepared,\
+com.txp.listener.ApplicationListenerStarted
+
+
+# EnvironmentPostProcessor
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.txp.processor.ExtendPropertySourcesEnvironmentPostProcessor

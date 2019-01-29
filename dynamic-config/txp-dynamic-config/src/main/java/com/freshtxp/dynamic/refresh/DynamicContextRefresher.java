@@ -31,7 +31,7 @@ public class DynamicContextRefresher implements ApplicationListener<ApplicationR
 
     private final DynamicRefreshProperties refreshProperties;
 
-    private final DynamicPropertySourceRepository nacosPropertySourceRepository;
+    private final DynamicPropertySourceRepository dynamicPropertySourceRepository;
 
     private final ConfigService configService;
 
@@ -39,12 +39,12 @@ public class DynamicContextRefresher implements ApplicationListener<ApplicationR
 
     public DynamicContextRefresher(ContextRefresher contextRefresher, DynamicConfigProperties properties,
                                    DynamicRefreshProperties refreshProperties,
-                                   DynamicPropertySourceRepository nacosPropertySourceRepository,
+                                   DynamicPropertySourceRepository dynamicPropertySourceRepository,
                                    ConfigService configService) {
         this.contextRefresher = contextRefresher;
         this.properties = properties;
         this.refreshProperties = refreshProperties;
-        this.nacosPropertySourceRepository = nacosPropertySourceRepository;
+        this.dynamicPropertySourceRepository = dynamicPropertySourceRepository;
         this.configService = configService;
     }
 
@@ -58,7 +58,7 @@ public class DynamicContextRefresher implements ApplicationListener<ApplicationR
      */
     private void registerNacosListenersForApplications() {
         if (refreshProperties.isEnabled()) {
-            for (PropertySource nacosPropertySource : nacosPropertySourceRepository.getAll()) {
+            for (PropertySource nacosPropertySource : dynamicPropertySourceRepository.getAll()) {
                 String dataId = nacosPropertySource.getDataId();
                 registerNacosListener(dataId);
             }
