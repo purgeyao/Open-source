@@ -56,7 +56,7 @@ public class PropertySourceBuilder {
         try {
             data = configService.getConfig(dataId, group, timeout);
             if (!StringUtils.isEmpty(data)) {
-                log.info(String.format("Loading nacos data, dataId: '%s', group: '%s'", dataId, group));
+                log.info(String.format("Loading dynamic-config data, dataId: '%s', group: '%s'", dataId, group));
 
                 // 转换为properties格式文件
                 if (fileExtension.equalsIgnoreCase("properties")) {

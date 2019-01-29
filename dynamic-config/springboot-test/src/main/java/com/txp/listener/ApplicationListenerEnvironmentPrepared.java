@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationListener;
 
 /**
  * 基于ApplicationEnvironmentPreparedEvent 扩展外部化配置属性源
- * // 2. from-ApplicationEnvironmentPreparedEvent : 9
+ * // 5. from-ApplicationEnvironmentPreparedEvent : 9
  *
  * @author zhaoyao
  * @version 1.0

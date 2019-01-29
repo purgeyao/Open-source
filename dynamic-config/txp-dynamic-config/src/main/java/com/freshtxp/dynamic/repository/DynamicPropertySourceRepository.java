@@ -34,20 +34,20 @@ public class DynamicPropertySourceRepository {
                 result.add((PropertySource) p);
             }
             else if (p instanceof CompositePropertySource) {
-                collectNacosPropertySources((CompositePropertySource) p, result);
+                collectDynamicPropertySources((CompositePropertySource) p, result);
             }
         }
         return result;
     }
 
-    private void collectNacosPropertySources(CompositePropertySource composite,
+    private void collectDynamicPropertySources(CompositePropertySource composite,
                                              List<PropertySource> result) {
         for (org.springframework.core.env.PropertySource p : composite.getPropertySources()) {
             if (p instanceof PropertySource) {
                 result.add((PropertySource) p);
             }
             else if (p instanceof CompositePropertySource) {
-                collectNacosPropertySources((CompositePropertySource) p, result);
+                collectDynamicPropertySources((CompositePropertySource) p, result);
             }
         }
     }

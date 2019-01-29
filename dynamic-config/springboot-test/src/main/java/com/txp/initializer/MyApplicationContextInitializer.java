@@ -15,6 +15,9 @@ import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
+ * 基于 ApplicationContextInitializer 扩展外部化配置属性源
+ * // 3. from-ApplicationContextInitializer : 29
+ *
  * @author zhaoyao
  * @version 1.0
  * @date 2019-01-28
@@ -29,7 +32,7 @@ public class MyApplicationContextInitializer implements ApplicationContextInitia
 
     private DynamicPropertySourceRepository dynamicPropertySourceRepository;
 
-//    @Resource
+    //    @Resource
     private TestUser testUser;
 
     @Override
@@ -45,9 +48,10 @@ public class MyApplicationContextInitializer implements ApplicationContextInitia
             if (p instanceof PropertySource) {
                 result.add((PropertySource) p);
             } else if (p instanceof CompositePropertySource) {
-                collectNacosPropertySources((CompositePropertySource) p, result);
+                collectDynamicPropertySources((CompositePropertySource) p, result);
             }
         }
+
         // upd Properties and Map<String, Object>
         if (result.size() > 0) {
             for (PropertySource propertySource : result) {
@@ -59,13 +63,13 @@ public class MyApplicationContextInitializer implements ApplicationContextInitia
         log.info("[MyApplicationContextInitializer] ApplicationContextInitializer initialize");
     }
 
-    private void collectNacosPropertySources(CompositePropertySource composite,
+    private void collectDynamicPropertySources(CompositePropertySource composite,
                                              List<PropertySource> result) {
         for (org.springframework.core.env.PropertySource p : composite.getPropertySources()) {
             if (p instanceof PropertySource) {
                 result.add((PropertySource) p);
             } else if (p instanceof CompositePropertySource) {
-                collectNacosPropertySources((CompositePropertySource) p, result);
+                collectDynamicPropertySources((CompositePropertySource) p, result);
             }
         }
     }
