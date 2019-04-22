@@ -1,0 +1,36 @@
+2019-04-20 03:15:20,938 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555701320870,"lastRefTimeStr":"2019-04-20 03:15:20","servePort":8848,"site":"unknown","weight":1}, last: {"adWeight":0,"alive":false,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555686971836,"lastRefTimeStr":"2019-04-19 23:16:11","servePort":8848,"site":"unknown","weight":1}
+
+2019-04-20 05:15:43,987 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555708543951,"lastRefTimeStr":"2019-04-20 05:15:43","servePort":8848,"site":"unknown","weight":1}, last: {"adWeight":0,"alive":false,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555701335946,"lastRefTimeStr":"2019-04-20 03:15:35","servePort":8848,"site":"unknown","weight":1}
+
+2019-04-20 07:16:20,698 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555715780693,"lastRefTimeStr":"2019-04-20 07:16:20","servePort":8848,"site":"unknown","weight":1}, last: {"adWeight":0,"alive":false,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555708561334,"lastRefTimeStr":"2019-04-20 05:16:01","servePort":8848,"site":"unknown","weight":1}
+
+2019-04-20 09:17:09,790 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555723029789,"lastRefTimeStr":"2019-04-20 09:17:09","servePort":8848,"site":"unknown","weight":1}, last: {"adWeight":0,"alive":false,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555715795706,"lastRefTimeStr":"2019-04-20 07:16:35","servePort":8848,"site":"unknown","weight":1}
+
+2019-04-20 10:11:12,887 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555726272887,"lastRefTimeStr":"2019-04-20 10:11:12","servePort":8848,"site":"unknown","weight":1}, last: {"adWeight":0,"alive":false,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555723029789,"lastRefTimeStr":"2019-04-20 09:17:09","servePort":8848,"site":"unknown","weight":1}
+
+2019-04-20 10:11:45,350 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:16:45,020 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:21:44,678 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:26:44,336 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:31:43,987 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:36:43,646 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:41:43,310 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:46:42,983 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:51:42,649 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 10:56:42,313 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 11:01:41,973 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 11:06:41,632 INFO [HEALTH-CHECK] health check is true
+
+2019-04-20 11:11:41,292 INFO [HEALTH-CHECK] health check is true
+

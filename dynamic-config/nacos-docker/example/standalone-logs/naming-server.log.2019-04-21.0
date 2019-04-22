@@ -1,0 +1,24 @@
+2019-04-21 22:46:43,770 INFO listen for service meta change
+
+2019-04-21 22:46:50,864 INFO [SERVER-INIT] got port: 8848
+
+2019-04-21 22:46:50,864 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-21 22:47:03,313 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-21 22:47:18,886 INFO [HEALTH-CHECK] health check is false
+
+2019-04-21 22:48:18,220 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-04-21 22:52:18,568 INFO [HEALTH-CHECK] health check is true
+
+2019-04-21 22:57:18,231 INFO [HEALTH-CHECK] health check is true
+
+2019-04-21 23:02:17,893 INFO [HEALTH-CHECK] health check is true
+
+2019-04-21 23:07:17,555 INFO [HEALTH-CHECK] health check is true
+
+2019-04-21 23:12:17,205 INFO [HEALTH-CHECK] health check is true
+
+2019-04-21 23:57:15,562 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555862235561,"lastRefTimeStr":"2019-04-21 23:57:15","servePort":8848,"site":"unknown","weight":1}, last: {"adWeight":0,"alive":false,"ip":"e26021c8fffd","key":"e26021c8fffd:8848","lastRefTime":1555859791533,"lastRefTimeStr":"2019-04-21 23:16:31","servePort":8848,"site":"unknown","weight":1}
+

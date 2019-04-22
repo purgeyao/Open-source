@@ -1,0 +1,153 @@
+2019-04-18 16:27:27,353 WARN isQuickStart:false
+
+2019-04-18 16:27:27,925 WARN useAddressServer:true
+
+2019-04-18 16:31:04,557 WARN [master-db] jdbc:mysql://mysql-master:3306/nacos_devtest?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2019-04-18 16:31:08,617 ERROR [db-error] slave db  down.
+
+2019-04-18 16:31:08,801 WARN isQuickStart:false
+
+2019-04-18 16:31:09,186 WARN useAddressServer:true
+
+2019-04-18 16:31:22,667 ERROR [db-error] slave db  down.
+
+2019-04-18 16:31:36,679 ERROR [db-error] slave db  down.
+
+2019-04-18 16:31:50,703 ERROR [db-error] slave db  down.
+
+2019-04-18 16:32:04,700 ERROR [db-error] slave db  down.
+
+2019-04-18 17:56:29,348 ERROR [master-db] master db not found.
+
+2019-04-18 17:56:33,371 ERROR [db-error] master db  down.
+
+2019-04-18 17:56:37,383 ERROR [db-error] slave db  down.
+
+2019-04-18 17:56:37,534 WARN isQuickStart:false
+
+2019-04-18 17:56:37,573 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 17:56:56,075 ERROR [master-db] master db not found.
+
+2019-04-18 17:57:00,075 ERROR [db-error] master db  down.
+
+2019-04-18 17:57:04,085 ERROR [db-error] slave db  down.
+
+2019-04-18 17:57:04,203 WARN isQuickStart:false
+
+2019-04-18 17:57:04,232 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 17:57:22,351 ERROR [master-db] master db not found.
+
+2019-04-18 17:57:26,377 ERROR [db-error] master db  down.
+
+2019-04-18 17:57:30,368 ERROR [db-error] slave db  down.
+
+2019-04-18 17:57:30,511 WARN isQuickStart:false
+
+2019-04-18 17:57:30,580 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 17:57:49,483 ERROR [master-db] master db not found.
+
+2019-04-18 17:57:53,511 ERROR [db-error] master db  down.
+
+2019-04-18 17:57:57,521 ERROR [db-error] slave db  down.
+
+2019-04-18 17:57:57,669 WARN isQuickStart:false
+
+2019-04-18 17:57:57,698 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 17:59:06,090 WARN isQuickStart:false
+
+2019-04-18 17:59:06,575 WARN useAddressServer:true
+
+2019-04-18 17:59:46,221 ERROR [master-db] master db not found.
+
+2019-04-18 17:59:50,249 ERROR [db-error] master db  down.
+
+2019-04-18 17:59:54,261 ERROR [db-error] slave db  down.
+
+2019-04-18 17:59:54,441 WARN isQuickStart:false
+
+2019-04-18 17:59:54,476 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 18:00:12,963 ERROR [master-db] master db not found.
+
+2019-04-18 18:00:16,982 ERROR [db-error] master db  down.
+
+2019-04-18 18:00:20,992 ERROR [db-error] slave db  down.
+
+2019-04-18 18:00:21,204 WARN isQuickStart:false
+
+2019-04-18 18:00:21,247 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 18:00:40,335 ERROR [master-db] master db not found.
+
+2019-04-18 18:00:44,359 ERROR [db-error] master db  down.
+
+2019-04-18 18:00:48,371 ERROR [db-error] slave db  down.
+
+2019-04-18 18:00:48,493 WARN isQuickStart:false
+
+2019-04-18 18:00:48,525 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 18:01:07,044 ERROR [master-db] master db not found.
+
+2019-04-18 18:01:11,075 ERROR [db-error] master db  down.
+
+2019-04-18 18:01:15,086 ERROR [db-error] slave db  down.
+
+2019-04-18 18:01:15,274 WARN isQuickStart:false
+
+2019-04-18 18:01:15,309 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 18:01:34,264 ERROR [master-db] master db not found.
+
+2019-04-18 18:01:38,296 ERROR [db-error] master db  down.
+
+2019-04-18 18:01:42,308 ERROR [db-error] slave db  down.
+
+2019-04-18 18:01:42,460 WARN isQuickStart:false
+
+2019-04-18 18:01:42,488 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 18:02:01,499 ERROR [master-db] master db not found.
+
+2019-04-18 18:02:05,514 ERROR [db-error] master db  down.
+
+2019-04-18 18:02:09,535 ERROR [db-error] slave db  down.
+
+2019-04-18 18:02:09,718 WARN isQuickStart:false
+
+2019-04-18 18:02:09,763 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 18:02:29,728 ERROR [master-db] master db not found.
+
+2019-04-18 18:02:33,751 ERROR [db-error] master db  down.
+
+2019-04-18 18:02:40,766 ERROR [db-error] slave db  down.
+
+2019-04-18 18:02:40,913 WARN isQuickStart:false
+
+2019-04-18 18:02:40,952 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-04-18 18:04:31,796 WARN isQuickStart:false
+
+2019-04-18 18:04:32,145 WARN useAddressServer:true
+
+2019-04-18 18:24:01,742 WARN isQuickStart:false
+
+2019-04-18 18:24:02,141 WARN useAddressServer:true
+

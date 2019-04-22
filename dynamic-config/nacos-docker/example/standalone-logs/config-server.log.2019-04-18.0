@@ -1,0 +1,1854 @@
+2019-04-18 16:27:25,478 INFO notifyConnectTimeout:200
+
+2019-04-18 16:27:25,480 INFO notifySocketTimeout:8000
+
+2019-04-18 16:27:25,480 INFO isHealthCheck:true
+
+2019-04-18 16:27:25,481 INFO maxHealthCheckFailCount:12
+
+2019-04-18 16:27:25,482 INFO maxContent:10485760
+
+2019-04-18 16:27:25,482 INFO spring.datasource.platform:""
+
+2019-04-18 16:27:27,349 WARN DumpService start
+
+2019-04-18 16:27:27,354 INFO start clear all config-info.
+
+2019-04-18 16:27:27,361 WARN clear all config-info failed.
+
+2019-04-18 16:27:27,362 WARN clear all config-info-tenant failed.
+
+2019-04-18 16:27:27,429 INFO start clear all config-info-beta.
+
+2019-04-18 16:27:27,430 WARN clear all config-info-beta failed.
+
+2019-04-18 16:27:27,431 WARN clear all config-info-beta-tenant failed.
+
+2019-04-18 16:27:27,445 INFO start clear all config-info-tag.
+
+2019-04-18 16:27:27,446 WARN clear all config-info-tag failed.
+
+2019-04-18 16:27:27,446 WARN clear all config-info-tag-tenant failed.
+
+2019-04-18 16:27:27,924 INFO ServerListService address-server port:8848
+
+2019-04-18 16:27:27,924 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-04-18 16:27:27,926 WARN [serverlist] updated to [528e3b5f2846]
+
+2019-04-18 16:31:04,128 INFO notifyConnectTimeout:200
+
+2019-04-18 16:31:04,130 INFO notifySocketTimeout:8000
+
+2019-04-18 16:31:04,131 INFO isHealthCheck:true
+
+2019-04-18 16:31:04,131 INFO maxHealthCheckFailCount:12
+
+2019-04-18 16:31:04,132 INFO maxContent:10485760
+
+2019-04-18 16:31:04,133 INFO spring.datasource.platform:mysql
+
+2019-04-18 16:31:04,182 INFO check master db.
+
+2019-04-18 16:31:04,560 INFO check db health.
+
+2019-04-18 16:31:08,793 WARN DumpService start
+
+2019-04-18 16:31:08,802 INFO start clear all config-info.
+
+2019-04-18 16:31:08,808 WARN clear all config-info failed.
+
+2019-04-18 16:31:08,808 WARN clear all config-info-tenant failed.
+
+2019-04-18 16:31:08,838 INFO start clear all config-info-beta.
+
+2019-04-18 16:31:08,843 WARN clear all config-info-beta failed.
+
+2019-04-18 16:31:08,844 WARN clear all config-info-beta-tenant failed.
+
+2019-04-18 16:31:08,850 INFO start clear all config-info-tag.
+
+2019-04-18 16:31:08,851 WARN clear all config-info-tag failed.
+
+2019-04-18 16:31:08,852 WARN clear all config-info-tag-tenant failed.
+
+2019-04-18 16:31:09,185 INFO ServerListService address-server port:8848
+
+2019-04-18 16:31:09,186 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-04-18 16:31:09,188 WARN [serverlist] updated to [8abc012c47b0]
+
+2019-04-18 16:31:18,629 INFO check master db.
+
+2019-04-18 16:31:18,630 INFO check db health.
+
+2019-04-18 16:31:28,641 INFO check master db.
+
+2019-04-18 16:31:32,660 INFO check db health.
+
+2019-04-18 16:31:38,630 INFO check master db.
+
+2019-04-18 16:31:46,685 INFO check db health.
+
+2019-04-18 16:31:48,633 INFO check master db.
+
+2019-04-18 16:31:58,639 INFO check master db.
+
+2019-04-18 16:32:00,708 INFO check db health.
+
+2019-04-18 16:32:08,621 INFO check master db.
+
+2019-04-18 16:32:14,710 INFO check db health.
+
+2019-04-18 16:32:18,624 INFO check master db.
+
+2019-04-18 16:32:24,834 INFO check db health.
+
+2019-04-18 16:32:28,631 INFO check master db.
+
+2019-04-18 16:32:34,826 INFO check db health.
+
+2019-04-18 16:32:38,617 INFO check master db.
+
+2019-04-18 16:32:44,838 INFO check db health.
+
+2019-04-18 16:32:48,623 INFO check master db.
+
+2019-04-18 16:32:54,844 INFO check db health.
+
+2019-04-18 16:32:58,628 INFO check master db.
+
+2019-04-18 16:33:04,832 INFO check db health.
+
+2019-04-18 16:33:08,612 INFO check master db.
+
+2019-04-18 16:33:14,852 INFO check db health.
+
+2019-04-18 16:33:18,618 INFO check master db.
+
+2019-04-18 16:33:24,862 INFO check db health.
+
+2019-04-18 16:33:28,621 INFO check master db.
+
+2019-04-18 16:33:34,849 INFO check db health.
+
+2019-04-18 16:33:38,606 INFO check master db.
+
+2019-04-18 16:33:44,855 INFO check db health.
+
+2019-04-18 16:33:48,610 INFO check master db.
+
+2019-04-18 16:33:54,865 INFO check db health.
+
+2019-04-18 16:33:58,617 INFO check master db.
+
+2019-04-18 16:34:04,844 INFO check db health.
+
+2019-04-18 16:34:08,594 INFO check master db.
+
+2019-04-18 16:34:14,853 INFO check db health.
+
+2019-04-18 16:34:18,599 INFO check master db.
+
+2019-04-18 16:34:24,861 INFO check db health.
+
+2019-04-18 16:34:28,610 INFO check master db.
+
+2019-04-18 16:34:34,841 INFO check db health.
+
+2019-04-18 16:34:38,595 INFO check master db.
+
+2019-04-18 16:34:44,851 INFO check db health.
+
+2019-04-18 16:34:48,601 INFO check master db.
+
+2019-04-18 16:34:54,860 INFO check db health.
+
+2019-04-18 16:34:58,606 INFO check master db.
+
+2019-04-18 16:35:04,844 INFO check db health.
+
+2019-04-18 16:35:08,593 INFO check master db.
+
+2019-04-18 16:35:14,850 INFO check db health.
+
+2019-04-18 16:35:18,599 INFO check master db.
+
+2019-04-18 16:35:24,859 INFO check db health.
+
+2019-04-18 16:35:28,608 INFO check master db.
+
+2019-04-18 16:35:34,843 INFO check db health.
+
+2019-04-18 16:35:38,596 INFO check master db.
+
+2019-04-18 16:35:44,851 INFO check db health.
+
+2019-04-18 16:35:48,607 INFO check master db.
+
+2019-04-18 16:35:54,857 INFO check db health.
+
+2019-04-18 16:35:58,614 INFO check master db.
+
+2019-04-18 16:36:04,845 INFO check db health.
+
+2019-04-18 16:36:08,600 INFO check master db.
+
+2019-04-18 16:36:14,861 INFO check db health.
+
+2019-04-18 16:36:18,608 INFO check master db.
+
+2019-04-18 16:36:24,869 INFO check db health.
+
+2019-04-18 16:36:28,615 INFO check master db.
+
+2019-04-18 16:36:34,856 INFO check db health.
+
+2019-04-18 16:36:38,601 INFO check master db.
+
+2019-04-18 16:36:44,864 INFO check db health.
+
+2019-04-18 16:36:48,609 INFO check master db.
+
+2019-04-18 16:36:54,870 INFO check db health.
+
+2019-04-18 16:36:58,614 INFO check master db.
+
+2019-04-18 16:37:04,854 INFO check db health.
+
+2019-04-18 16:37:08,596 INFO check master db.
+
+2019-04-18 16:37:14,860 INFO check db health.
+
+2019-04-18 16:37:18,600 INFO check master db.
+
+2019-04-18 16:37:24,869 INFO check db health.
+
+2019-04-18 16:37:28,607 INFO check master db.
+
+2019-04-18 16:37:34,855 INFO check db health.
+
+2019-04-18 16:37:38,594 INFO check master db.
+
+2019-04-18 16:37:44,864 INFO check db health.
+
+2019-04-18 16:37:48,600 INFO check master db.
+
+2019-04-18 16:37:54,872 INFO check db health.
+
+2019-04-18 16:37:58,604 INFO check master db.
+
+2019-04-18 16:38:04,858 INFO check db health.
+
+2019-04-18 16:38:08,588 INFO check master db.
+
+2019-04-18 16:38:14,864 INFO check db health.
+
+2019-04-18 16:38:18,594 INFO check master db.
+
+2019-04-18 16:38:24,870 INFO check db health.
+
+2019-04-18 16:38:28,597 INFO check master db.
+
+2019-04-18 16:38:34,858 INFO check db health.
+
+2019-04-18 16:38:38,583 INFO check master db.
+
+2019-04-18 16:38:44,863 INFO check db health.
+
+2019-04-18 16:38:48,586 INFO check master db.
+
+2019-04-18 16:38:54,870 INFO check db health.
+
+2019-04-18 16:38:58,592 INFO check master db.
+
+2019-04-18 16:39:04,854 INFO check db health.
+
+2019-04-18 16:39:08,576 INFO check master db.
+
+2019-04-18 16:39:14,861 INFO check db health.
+
+2019-04-18 16:39:18,582 INFO check master db.
+
+2019-04-18 16:39:24,867 INFO check db health.
+
+2019-04-18 16:39:28,585 INFO check master db.
+
+2019-04-18 16:39:34,860 INFO check db health.
+
+2019-04-18 16:39:38,569 INFO check master db.
+
+2019-04-18 16:39:44,865 INFO check db health.
+
+2019-04-18 16:39:48,575 INFO check master db.
+
+2019-04-18 16:39:54,869 INFO check db health.
+
+2019-04-18 16:39:58,581 INFO check master db.
+
+2019-04-18 16:40:04,854 INFO check db health.
+
+2019-04-18 16:40:08,563 INFO check master db.
+
+2019-04-18 16:40:14,860 INFO check db health.
+
+2019-04-18 16:40:18,574 INFO check master db.
+
+2019-04-18 16:40:24,865 INFO check db health.
+
+2019-04-18 16:40:28,577 INFO check master db.
+
+2019-04-18 16:40:34,849 INFO check db health.
+
+2019-04-18 16:40:38,561 INFO check master db.
+
+2019-04-18 16:40:44,855 INFO check db health.
+
+2019-04-18 16:40:48,564 INFO check master db.
+
+2019-04-18 16:40:54,866 INFO check db health.
+
+2019-04-18 16:40:58,573 INFO check master db.
+
+2019-04-18 16:41:04,850 INFO check db health.
+
+2019-04-18 16:41:08,558 INFO check master db.
+
+2019-04-18 16:41:14,856 INFO check db health.
+
+2019-04-18 16:41:18,560 INFO check master db.
+
+2019-04-18 16:41:24,863 INFO check db health.
+
+2019-04-18 16:41:28,566 INFO check master db.
+
+2019-04-18 16:41:34,850 INFO check db health.
+
+2019-04-18 16:41:38,549 INFO check master db.
+
+2019-04-18 16:41:44,857 INFO check db health.
+
+2019-04-18 16:41:48,553 INFO check master db.
+
+2019-04-18 16:41:54,866 INFO check db health.
+
+2019-04-18 16:41:58,557 INFO check master db.
+
+2019-04-18 16:42:04,850 INFO check db health.
+
+2019-04-18 16:42:08,541 INFO check master db.
+
+2019-04-18 16:42:14,857 INFO check db health.
+
+2019-04-18 16:42:18,545 INFO check master db.
+
+2019-04-18 16:42:24,864 INFO check db health.
+
+2019-04-18 16:42:28,549 INFO check master db.
+
+2019-04-18 16:42:34,848 INFO check db health.
+
+2019-04-18 16:42:38,533 INFO check master db.
+
+2019-04-18 16:42:44,853 INFO check db health.
+
+2019-04-18 16:42:48,542 INFO check master db.
+
+2019-04-18 16:42:54,862 INFO check db health.
+
+2019-04-18 16:42:58,547 INFO check master db.
+
+2019-04-18 16:43:04,851 INFO check db health.
+
+2019-04-18 16:43:08,532 INFO check master db.
+
+2019-04-18 16:43:14,858 INFO check db health.
+
+2019-04-18 16:43:18,536 INFO check master db.
+
+2019-04-18 16:43:24,867 INFO check db health.
+
+2019-04-18 16:43:28,541 INFO check master db.
+
+2019-04-18 16:43:34,854 INFO check db health.
+
+2019-04-18 16:43:38,524 INFO check master db.
+
+2019-04-18 16:43:44,862 INFO check db health.
+
+2019-04-18 16:43:48,529 INFO check master db.
+
+2019-04-18 16:43:54,870 INFO check db health.
+
+2019-04-18 16:43:58,535 INFO check master db.
+
+2019-04-18 16:44:04,853 INFO check db health.
+
+2019-04-18 16:44:08,520 INFO check master db.
+
+2019-04-18 16:44:14,860 INFO check db health.
+
+2019-04-18 16:44:18,525 INFO check master db.
+
+2019-04-18 16:44:24,870 INFO check db health.
+
+2019-04-18 16:44:28,529 INFO check master db.
+
+2019-04-18 16:44:34,856 INFO check db health.
+
+2019-04-18 16:44:38,512 INFO check master db.
+
+2019-04-18 16:44:44,861 INFO check db health.
+
+2019-04-18 16:44:48,520 INFO check master db.
+
+2019-04-18 16:44:54,866 INFO check db health.
+
+2019-04-18 16:44:58,526 INFO check master db.
+
+2019-04-18 16:45:04,850 INFO check db health.
+
+2019-04-18 16:45:08,510 INFO check master db.
+
+2019-04-18 16:45:14,858 INFO check db health.
+
+2019-04-18 16:45:18,518 INFO check master db.
+
+2019-04-18 16:45:24,865 INFO check db health.
+
+2019-04-18 16:45:28,526 INFO check master db.
+
+2019-04-18 16:45:34,849 INFO check db health.
+
+2019-04-18 16:45:38,509 INFO check master db.
+
+2019-04-18 16:45:44,854 INFO check db health.
+
+2019-04-18 16:45:48,513 INFO check master db.
+
+2019-04-18 16:45:54,859 INFO check db health.
+
+2019-04-18 16:45:58,518 INFO check master db.
+
+2019-04-18 16:46:04,845 INFO check db health.
+
+2019-04-18 16:46:08,500 INFO check master db.
+
+2019-04-18 16:46:14,852 INFO check db health.
+
+2019-04-18 16:46:18,505 INFO check master db.
+
+2019-04-18 16:46:24,860 INFO check db health.
+
+2019-04-18 16:46:28,512 INFO check master db.
+
+2019-04-18 16:46:34,847 INFO check db health.
+
+2019-04-18 16:46:38,496 INFO check master db.
+
+2019-04-18 16:46:44,850 INFO check db health.
+
+2019-04-18 16:46:48,501 INFO check master db.
+
+2019-04-18 16:46:54,855 INFO check db health.
+
+2019-04-18 16:46:58,508 INFO check master db.
+
+2019-04-18 16:47:04,839 INFO check db health.
+
+2019-04-18 16:47:08,493 INFO check master db.
+
+2019-04-18 16:47:14,844 INFO check db health.
+
+2019-04-18 16:47:18,496 INFO check master db.
+
+2019-04-18 16:47:24,852 INFO check db health.
+
+2019-04-18 16:47:28,500 INFO check master db.
+
+2019-04-18 16:47:34,840 INFO check db health.
+
+2019-04-18 16:47:38,488 INFO check master db.
+
+2019-04-18 16:47:44,845 INFO check db health.
+
+2019-04-18 16:47:48,492 INFO check master db.
+
+2019-04-18 16:47:54,849 INFO check db health.
+
+2019-04-18 16:47:58,495 INFO check master db.
+
+2019-04-18 16:48:04,835 INFO check db health.
+
+2019-04-18 16:48:08,478 INFO check master db.
+
+2019-04-18 16:48:14,839 INFO check db health.
+
+2019-04-18 16:48:18,483 INFO check master db.
+
+2019-04-18 16:48:24,844 INFO check db health.
+
+2019-04-18 16:48:28,487 INFO check master db.
+
+2019-04-18 16:48:34,828 INFO check db health.
+
+2019-04-18 16:48:38,469 INFO check master db.
+
+2019-04-18 16:48:44,834 INFO check db health.
+
+2019-04-18 16:48:48,472 INFO check master db.
+
+2019-04-18 16:48:54,848 INFO check db health.
+
+2019-04-18 16:48:58,476 INFO check master db.
+
+2019-04-18 16:49:04,833 INFO check db health.
+
+2019-04-18 16:49:08,460 INFO check master db.
+
+2019-04-18 16:49:14,841 INFO check db health.
+
+2019-04-18 16:49:18,466 INFO check master db.
+
+2019-04-18 16:49:24,847 INFO check db health.
+
+2019-04-18 16:49:28,473 INFO check master db.
+
+2019-04-18 16:49:34,833 INFO check db health.
+
+2019-04-18 16:49:38,456 INFO check master db.
+
+2019-04-18 16:49:44,836 INFO check db health.
+
+2019-04-18 16:49:48,464 INFO check master db.
+
+2019-04-18 16:49:54,842 INFO check db health.
+
+2019-04-18 16:49:58,469 INFO check master db.
+
+2019-04-18 16:50:04,832 INFO check db health.
+
+2019-04-18 16:50:08,454 INFO check master db.
+
+2019-04-18 16:50:14,839 INFO check db health.
+
+2019-04-18 16:50:18,461 INFO check master db.
+
+2019-04-18 16:50:24,850 INFO check db health.
+
+2019-04-18 16:50:28,466 INFO check master db.
+
+2019-04-18 16:50:34,836 INFO check db health.
+
+2019-04-18 16:50:38,449 INFO check master db.
+
+2019-04-18 16:50:44,843 INFO check db health.
+
+2019-04-18 16:50:48,456 INFO check master db.
+
+2019-04-18 16:50:54,851 INFO check db health.
+
+2019-04-18 16:50:58,461 INFO check master db.
+
+2019-04-18 16:51:04,840 INFO check db health.
+
+2019-04-18 16:51:08,446 INFO check master db.
+
+2019-04-18 16:51:14,846 INFO check db health.
+
+2019-04-18 16:51:18,452 INFO check master db.
+
+2019-04-18 16:51:24,852 INFO check db health.
+
+2019-04-18 16:51:28,457 INFO check master db.
+
+2019-04-18 16:51:34,836 INFO check db health.
+
+2019-04-18 16:51:38,441 INFO check master db.
+
+2019-04-18 16:51:44,845 INFO check db health.
+
+2019-04-18 16:51:48,448 INFO check master db.
+
+2019-04-18 16:51:54,852 INFO check db health.
+
+2019-04-18 16:51:58,456 INFO check master db.
+
+2019-04-18 16:52:04,837 INFO check db health.
+
+2019-04-18 16:52:08,438 INFO check master db.
+
+2019-04-18 16:52:14,848 INFO check db health.
+
+2019-04-18 16:52:18,440 INFO check master db.
+
+2019-04-18 16:52:24,856 INFO check db health.
+
+2019-04-18 16:52:28,445 INFO check master db.
+
+2019-04-18 16:52:34,841 INFO check db health.
+
+2019-04-18 16:52:38,430 INFO check master db.
+
+2019-04-18 16:52:44,849 INFO check db health.
+
+2019-04-18 16:52:48,435 INFO check master db.
+
+2019-04-18 16:52:54,854 INFO check db health.
+
+2019-04-18 16:52:58,442 INFO check master db.
+
+2019-04-18 16:53:04,837 INFO check db health.
+
+2019-04-18 16:53:08,426 INFO check master db.
+
+2019-04-18 16:53:14,845 INFO check db health.
+
+2019-04-18 16:53:18,430 INFO check master db.
+
+2019-04-18 16:53:24,851 INFO check db health.
+
+2019-04-18 16:53:28,435 INFO check master db.
+
+2019-04-18 16:53:34,838 INFO check db health.
+
+2019-04-18 16:53:38,419 INFO check master db.
+
+2019-04-18 16:53:44,845 INFO check db health.
+
+2019-04-18 16:53:48,424 INFO check master db.
+
+2019-04-18 16:53:54,848 INFO check db health.
+
+2019-04-18 16:53:58,432 INFO check master db.
+
+2019-04-18 16:54:04,837 INFO check db health.
+
+2019-04-18 16:54:08,416 INFO check master db.
+
+2019-04-18 16:54:14,845 INFO check db health.
+
+2019-04-18 16:54:18,420 INFO check master db.
+
+2019-04-18 16:54:24,849 INFO check db health.
+
+2019-04-18 16:54:28,424 INFO check master db.
+
+2019-04-18 16:54:34,834 INFO check db health.
+
+2019-04-18 16:54:38,407 INFO check master db.
+
+2019-04-18 16:54:44,840 INFO check db health.
+
+2019-04-18 16:54:48,417 INFO check master db.
+
+2019-04-18 16:54:54,846 INFO check db health.
+
+2019-04-18 16:54:58,424 INFO check master db.
+
+2019-04-18 16:55:04,831 INFO check db health.
+
+2019-04-18 16:55:08,409 INFO check master db.
+
+2019-04-18 16:55:14,838 INFO check db health.
+
+2019-04-18 16:55:18,414 INFO check master db.
+
+2019-04-18 16:55:24,841 INFO check db health.
+
+2019-04-18 16:55:28,418 INFO check master db.
+
+2019-04-18 16:55:34,825 INFO check db health.
+
+2019-04-18 16:55:38,402 INFO check master db.
+
+2019-04-18 16:55:44,831 INFO check db health.
+
+2019-04-18 16:55:48,407 INFO check master db.
+
+2019-04-18 16:55:54,837 INFO check db health.
+
+2019-04-18 16:55:58,410 INFO check master db.
+
+2019-04-18 16:56:04,819 INFO check db health.
+
+2019-04-18 16:56:08,396 INFO check master db.
+
+2019-04-18 16:56:14,827 INFO check db health.
+
+2019-04-18 16:56:18,401 INFO check master db.
+
+2019-04-18 16:56:24,834 INFO check db health.
+
+2019-04-18 16:56:28,404 INFO check master db.
+
+2019-04-18 16:56:34,821 INFO check db health.
+
+2019-04-18 16:56:38,387 INFO check master db.
+
+2019-04-18 16:56:44,825 INFO check db health.
+
+2019-04-18 16:56:48,396 INFO check master db.
+
+2019-04-18 16:56:54,830 INFO check db health.
+
+2019-04-18 16:56:58,403 INFO check master db.
+
+2019-04-18 16:57:04,816 INFO check db health.
+
+2019-04-18 16:57:08,386 INFO check master db.
+
+2019-04-18 16:57:14,824 INFO check db health.
+
+2019-04-18 16:57:18,390 INFO check master db.
+
+2019-04-18 16:57:24,831 INFO check db health.
+
+2019-04-18 16:57:28,393 INFO check master db.
+
+2019-04-18 16:57:34,816 INFO check db health.
+
+2019-04-18 16:57:38,377 INFO check master db.
+
+2019-04-18 16:57:44,821 INFO check db health.
+
+2019-04-18 16:57:48,379 INFO check master db.
+
+2019-04-18 16:57:54,825 INFO check db health.
+
+2019-04-18 16:57:58,382 INFO check master db.
+
+2019-04-18 16:58:04,815 INFO check db health.
+
+2019-04-18 16:58:08,363 INFO check master db.
+
+2019-04-18 16:58:14,821 INFO check db health.
+
+2019-04-18 16:58:18,367 INFO check master db.
+
+2019-04-18 16:58:24,830 INFO check db health.
+
+2019-04-18 16:58:28,371 INFO check master db.
+
+2019-04-18 16:58:34,817 INFO check db health.
+
+2019-04-18 16:58:38,353 INFO check master db.
+
+2019-04-18 16:58:44,825 INFO check db health.
+
+2019-04-18 16:58:48,359 INFO check master db.
+
+2019-04-18 16:58:54,830 INFO check db health.
+
+2019-04-18 16:58:58,363 INFO check master db.
+
+2019-04-18 16:59:04,814 INFO check db health.
+
+2019-04-18 16:59:08,344 INFO check master db.
+
+2019-04-18 16:59:14,820 INFO check db health.
+
+2019-04-18 16:59:18,348 INFO check master db.
+
+2019-04-18 16:59:24,825 INFO check db health.
+
+2019-04-18 16:59:28,352 INFO check master db.
+
+2019-04-18 16:59:34,797 INFO check db health.
+
+2019-04-18 16:59:38,326 INFO check master db.
+
+2019-04-18 16:59:44,804 INFO check db health.
+
+2019-04-18 16:59:48,332 INFO check master db.
+
+2019-04-18 16:59:54,811 INFO check db health.
+
+2019-04-18 16:59:58,334 INFO check master db.
+
+2019-04-18 17:00:04,797 INFO check db health.
+
+2019-04-18 17:00:08,316 INFO check master db.
+
+2019-04-18 17:00:14,802 INFO check db health.
+
+2019-04-18 17:00:18,320 INFO check master db.
+
+2019-04-18 17:00:24,812 INFO check db health.
+
+2019-04-18 17:00:28,326 INFO check master db.
+
+2019-04-18 17:00:34,797 INFO check db health.
+
+2019-04-18 17:00:38,310 INFO check master db.
+
+2019-04-18 17:00:44,803 INFO check db health.
+
+2019-04-18 17:00:48,313 INFO check master db.
+
+2019-04-18 17:00:54,806 INFO check db health.
+
+2019-04-18 17:00:58,317 INFO check master db.
+
+2019-04-18 17:01:04,789 INFO check db health.
+
+2019-04-18 17:01:08,300 INFO check master db.
+
+2019-04-18 17:01:14,798 INFO check db health.
+
+2019-04-18 17:01:18,308 INFO check master db.
+
+2019-04-18 17:01:24,803 INFO check db health.
+
+2019-04-18 17:01:28,314 INFO check master db.
+
+2019-04-18 17:01:34,790 INFO check db health.
+
+2019-04-18 17:01:38,296 INFO check master db.
+
+2019-04-18 17:01:44,793 INFO check db health.
+
+2019-04-18 17:01:48,300 INFO check master db.
+
+2019-04-18 17:01:54,796 INFO check db health.
+
+2019-04-18 17:01:58,303 INFO check master db.
+
+2019-04-18 17:02:04,782 INFO check db health.
+
+2019-04-18 17:02:08,286 INFO check master db.
+
+2019-04-18 17:02:14,787 INFO check db health.
+
+2019-04-18 17:02:18,288 INFO check master db.
+
+2019-04-18 17:02:24,794 INFO check db health.
+
+2019-04-18 17:02:28,292 INFO check master db.
+
+2019-04-18 17:02:34,779 INFO check db health.
+
+2019-04-18 17:02:38,276 INFO check master db.
+
+2019-04-18 17:02:44,786 INFO check db health.
+
+2019-04-18 17:02:48,283 INFO check master db.
+
+2019-04-18 17:02:54,793 INFO check db health.
+
+2019-04-18 17:02:58,285 INFO check master db.
+
+2019-04-18 17:03:04,778 INFO check db health.
+
+2019-04-18 17:03:08,267 INFO check master db.
+
+2019-04-18 17:03:14,785 INFO check db health.
+
+2019-04-18 17:03:18,271 INFO check master db.
+
+2019-04-18 17:03:24,792 INFO check db health.
+
+2019-04-18 17:03:28,275 INFO check master db.
+
+2019-04-18 17:03:34,774 INFO check db health.
+
+2019-04-18 17:03:38,257 INFO check master db.
+
+2019-04-18 17:03:44,779 INFO check db health.
+
+2019-04-18 17:03:48,264 INFO check master db.
+
+2019-04-18 17:03:54,783 INFO check db health.
+
+2019-04-18 17:03:58,269 INFO check master db.
+
+2019-04-18 17:04:04,766 INFO check db health.
+
+2019-04-18 17:04:08,251 INFO check master db.
+
+2019-04-18 17:04:14,772 INFO check db health.
+
+2019-04-18 17:04:18,256 INFO check master db.
+
+2019-04-18 17:04:24,778 INFO check db health.
+
+2019-04-18 17:04:28,259 INFO check master db.
+
+2019-04-18 17:04:34,762 INFO check db health.
+
+2019-04-18 17:04:38,240 INFO check master db.
+
+2019-04-18 17:04:44,771 INFO check db health.
+
+2019-04-18 17:04:48,247 INFO check master db.
+
+2019-04-18 17:04:54,780 INFO check db health.
+
+2019-04-18 17:04:58,252 INFO check master db.
+
+2019-04-18 17:05:04,769 INFO check db health.
+
+2019-04-18 17:05:08,235 INFO check master db.
+
+2019-04-18 17:05:14,775 INFO check db health.
+
+2019-04-18 17:05:18,238 INFO check master db.
+
+2019-04-18 17:05:24,779 INFO check db health.
+
+2019-04-18 17:05:28,242 INFO check master db.
+
+2019-04-18 17:05:34,761 INFO check db health.
+
+2019-04-18 17:05:38,225 INFO check master db.
+
+2019-04-18 17:05:44,767 INFO check db health.
+
+2019-04-18 17:05:48,232 INFO check master db.
+
+2019-04-18 17:05:54,771 INFO check db health.
+
+2019-04-18 17:05:58,239 INFO check master db.
+
+2019-04-18 17:06:04,756 INFO check db health.
+
+2019-04-18 17:06:08,223 INFO check master db.
+
+2019-04-18 17:06:14,762 INFO check db health.
+
+2019-04-18 17:06:18,228 INFO check master db.
+
+2019-04-18 17:06:24,769 INFO check db health.
+
+2019-04-18 17:06:28,232 INFO check master db.
+
+2019-04-18 17:06:34,753 INFO check db health.
+
+2019-04-18 17:06:38,214 INFO check master db.
+
+2019-04-18 17:06:44,762 INFO check db health.
+
+2019-04-18 17:06:48,217 INFO check master db.
+
+2019-04-18 17:06:54,769 INFO check db health.
+
+2019-04-18 17:06:58,220 INFO check master db.
+
+2019-04-18 17:07:04,753 INFO check db health.
+
+2019-04-18 17:07:08,203 INFO check master db.
+
+2019-04-18 17:07:14,760 INFO check db health.
+
+2019-04-18 17:07:18,206 INFO check master db.
+
+2019-04-18 17:07:24,763 INFO check db health.
+
+2019-04-18 17:07:28,209 INFO check master db.
+
+2019-04-18 17:07:34,750 INFO check db health.
+
+2019-04-18 17:07:38,191 INFO check master db.
+
+2019-04-18 17:07:44,756 INFO check db health.
+
+2019-04-18 17:07:48,196 INFO check master db.
+
+2019-04-18 17:07:54,760 INFO check db health.
+
+2019-04-18 17:07:58,200 INFO check master db.
+
+2019-04-18 17:08:04,745 INFO check db health.
+
+2019-04-18 17:08:08,186 INFO check master db.
+
+2019-04-18 17:08:14,753 INFO check db health.
+
+2019-04-18 17:08:18,200 INFO check master db.
+
+2019-04-18 17:08:24,766 INFO check db health.
+
+2019-04-18 17:08:28,209 INFO check master db.
+
+2019-04-18 17:08:34,811 INFO check db health.
+
+2019-04-18 17:08:38,190 INFO check master db.
+
+2019-04-18 17:08:44,820 INFO check db health.
+
+2019-04-18 17:08:48,193 INFO check master db.
+
+2019-04-18 17:08:54,825 INFO check db health.
+
+2019-04-18 17:08:58,200 INFO check master db.
+
+2019-04-18 17:09:04,809 INFO check db health.
+
+2019-04-18 17:09:08,183 INFO check master db.
+
+2019-04-18 17:09:14,813 INFO check db health.
+
+2019-04-18 17:09:18,186 INFO check master db.
+
+2019-04-18 17:09:24,818 INFO check db health.
+
+2019-04-18 17:09:28,190 INFO check master db.
+
+2019-04-18 17:09:34,802 INFO check db health.
+
+2019-04-18 17:09:38,173 INFO check master db.
+
+2019-04-18 17:09:44,807 INFO check db health.
+
+2019-04-18 17:09:48,179 INFO check master db.
+
+2019-04-18 17:09:54,815 INFO check db health.
+
+2019-04-18 17:09:58,183 INFO check master db.
+
+2019-04-18 17:10:04,804 INFO check db health.
+
+2019-04-18 17:10:08,167 INFO check master db.
+
+2019-04-18 17:10:14,810 INFO check db health.
+
+2019-04-18 17:10:18,172 INFO check master db.
+
+2019-04-18 17:10:24,817 INFO check db health.
+
+2019-04-18 17:10:28,178 INFO check master db.
+
+2019-04-18 17:10:34,803 INFO check db health.
+
+2019-04-18 17:10:38,161 INFO check master db.
+
+2019-04-18 17:10:44,808 INFO check db health.
+
+2019-04-18 17:10:48,167 INFO check master db.
+
+2019-04-18 17:10:54,816 INFO check db health.
+
+2019-04-18 17:10:58,172 INFO check master db.
+
+2019-04-18 17:11:04,801 INFO check db health.
+
+2019-04-18 17:11:08,161 INFO check master db.
+
+2019-04-18 17:11:14,807 INFO check db health.
+
+2019-04-18 17:11:18,167 INFO check master db.
+
+2019-04-18 17:11:24,813 INFO check db health.
+
+2019-04-18 17:11:28,172 INFO check master db.
+
+2019-04-18 17:11:34,799 INFO check db health.
+
+2019-04-18 17:11:38,156 INFO check master db.
+
+2019-04-18 17:11:44,806 INFO check db health.
+
+2019-04-18 17:11:48,160 INFO check master db.
+
+2019-04-18 17:11:54,813 INFO check db health.
+
+2019-04-18 17:11:58,165 INFO check master db.
+
+2019-04-18 17:12:04,798 INFO check db health.
+
+2019-04-18 17:12:08,147 INFO check master db.
+
+2019-04-18 17:12:14,805 INFO check db health.
+
+2019-04-18 17:12:18,152 INFO check master db.
+
+2019-04-18 17:12:24,812 INFO check db health.
+
+2019-04-18 17:12:28,158 INFO check master db.
+
+2019-04-18 17:12:34,801 INFO check db health.
+
+2019-04-18 17:12:38,142 INFO check master db.
+
+2019-04-18 17:12:44,807 INFO check db health.
+
+2019-04-18 17:12:48,147 INFO check master db.
+
+2019-04-18 17:12:54,811 INFO check db health.
+
+2019-04-18 17:12:58,153 INFO check master db.
+
+2019-04-18 17:13:04,794 INFO check db health.
+
+2019-04-18 17:13:08,139 INFO check master db.
+
+2019-04-18 17:13:14,801 INFO check db health.
+
+2019-04-18 17:13:18,145 INFO check master db.
+
+2019-04-18 17:13:24,807 INFO check db health.
+
+2019-04-18 17:13:28,148 INFO check master db.
+
+2019-04-18 17:13:34,790 INFO check db health.
+
+2019-04-18 17:13:38,134 INFO check master db.
+
+2019-04-18 17:13:44,798 INFO check db health.
+
+2019-04-18 17:13:48,138 INFO check master db.
+
+2019-04-18 17:13:54,803 INFO check db health.
+
+2019-04-18 17:13:58,145 INFO check master db.
+
+2019-04-18 17:14:04,786 INFO check db health.
+
+2019-04-18 17:14:08,130 INFO check master db.
+
+2019-04-18 17:14:14,793 INFO check db health.
+
+2019-04-18 17:14:18,133 INFO check master db.
+
+2019-04-18 17:14:24,797 INFO check db health.
+
+2019-04-18 17:14:28,137 INFO check master db.
+
+2019-04-18 17:14:34,783 INFO check db health.
+
+2019-04-18 17:14:38,123 INFO check master db.
+
+2019-04-18 17:14:44,791 INFO check db health.
+
+2019-04-18 17:14:48,132 INFO check master db.
+
+2019-04-18 17:14:54,798 INFO check db health.
+
+2019-04-18 17:14:58,137 INFO check master db.
+
+2019-04-18 17:15:04,782 INFO check db health.
+
+2019-04-18 17:15:08,121 INFO check master db.
+
+2019-04-18 17:15:14,787 INFO check db health.
+
+2019-04-18 17:15:18,126 INFO check master db.
+
+2019-04-18 17:15:24,792 INFO check db health.
+
+2019-04-18 17:15:28,131 INFO check master db.
+
+2019-04-18 17:15:34,777 INFO check db health.
+
+2019-04-18 17:15:38,113 INFO check master db.
+
+2019-04-18 17:15:44,784 INFO check db health.
+
+2019-04-18 17:15:48,119 INFO check master db.
+
+2019-04-18 17:15:54,792 INFO check db health.
+
+2019-04-18 17:15:58,124 INFO check master db.
+
+2019-04-18 17:16:04,780 INFO check db health.
+
+2019-04-18 17:16:08,107 INFO check master db.
+
+2019-04-18 17:16:14,785 INFO check db health.
+
+2019-04-18 17:16:18,112 INFO check master db.
+
+2019-04-18 17:16:24,790 INFO check db health.
+
+2019-04-18 17:16:28,119 INFO check master db.
+
+2019-04-18 17:16:34,774 INFO check db health.
+
+2019-04-18 17:16:38,104 INFO check master db.
+
+2019-04-18 17:16:44,781 INFO check db health.
+
+2019-04-18 17:16:48,118 INFO check master db.
+
+2019-04-18 17:16:54,788 INFO check db health.
+
+2019-04-18 17:16:58,126 INFO check master db.
+
+2019-04-18 17:17:04,773 INFO check db health.
+
+2019-04-18 17:17:08,108 INFO check master db.
+
+2019-04-18 17:17:14,781 INFO check db health.
+
+2019-04-18 17:17:18,113 INFO check master db.
+
+2019-04-18 17:17:24,789 INFO check db health.
+
+2019-04-18 17:17:28,117 INFO check master db.
+
+2019-04-18 17:17:34,775 INFO check db health.
+
+2019-04-18 17:17:38,098 INFO check master db.
+
+2019-04-18 17:17:44,782 INFO check db health.
+
+2019-04-18 17:17:48,112 INFO check master db.
+
+2019-04-18 17:17:54,789 INFO check db health.
+
+2019-04-18 17:17:58,120 INFO check master db.
+
+2019-04-18 17:18:04,774 INFO check db health.
+
+2019-04-18 17:18:08,106 INFO check master db.
+
+2019-04-18 17:18:14,780 INFO check db health.
+
+2019-04-18 17:18:18,114 INFO check master db.
+
+2019-04-18 17:18:24,787 INFO check db health.
+
+2019-04-18 17:18:28,120 INFO check master db.
+
+2019-04-18 17:18:34,775 INFO check db health.
+
+2019-04-18 17:18:38,102 INFO check master db.
+
+2019-04-18 17:18:44,783 INFO check db health.
+
+2019-04-18 17:18:48,110 INFO check master db.
+
+2019-04-18 17:18:54,790 INFO check db health.
+
+2019-04-18 17:18:58,116 INFO check master db.
+
+2019-04-18 17:19:04,778 INFO check db health.
+
+2019-04-18 17:19:08,101 INFO check master db.
+
+2019-04-18 17:19:14,785 INFO check db health.
+
+2019-04-18 17:19:18,107 INFO check master db.
+
+2019-04-18 17:19:24,792 INFO check db health.
+
+2019-04-18 17:19:28,113 INFO check master db.
+
+2019-04-18 17:19:34,776 INFO check db health.
+
+2019-04-18 17:19:38,098 INFO check master db.
+
+2019-04-18 17:19:44,782 INFO check db health.
+
+2019-04-18 17:19:48,105 INFO check master db.
+
+2019-04-18 17:19:54,793 INFO check db health.
+
+2019-04-18 17:19:58,114 INFO check master db.
+
+2019-04-18 17:20:04,773 INFO check db health.
+
+2019-04-18 17:20:08,094 INFO check master db.
+
+2019-04-18 17:20:14,779 INFO check db health.
+
+2019-04-18 17:20:18,098 INFO check master db.
+
+2019-04-18 17:20:24,783 INFO check db health.
+
+2019-04-18 17:20:28,103 INFO check master db.
+
+2019-04-18 17:20:34,765 INFO check db health.
+
+2019-04-18 17:20:38,085 INFO check master db.
+
+2019-04-18 17:20:44,770 INFO check db health.
+
+2019-04-18 17:20:48,090 INFO check master db.
+
+2019-04-18 17:20:54,775 INFO check db health.
+
+2019-04-18 17:20:58,097 INFO check master db.
+
+2019-04-18 17:21:04,758 INFO check db health.
+
+2019-04-18 17:21:08,083 INFO check master db.
+
+2019-04-18 17:21:14,763 INFO check db health.
+
+2019-04-18 17:21:18,090 INFO check master db.
+
+2019-04-18 17:21:24,768 INFO check db health.
+
+2019-04-18 17:21:28,094 INFO check master db.
+
+2019-04-18 17:21:34,752 INFO check db health.
+
+2019-04-18 17:21:38,077 INFO check master db.
+
+2019-04-18 17:21:44,756 INFO check db health.
+
+2019-04-18 17:21:48,086 INFO check master db.
+
+2019-04-18 17:21:54,762 INFO check db health.
+
+2019-04-18 17:21:58,095 INFO check master db.
+
+2019-04-18 17:22:04,747 INFO check db health.
+
+2019-04-18 17:22:08,077 INFO check master db.
+
+2019-04-18 17:22:14,753 INFO check db health.
+
+2019-04-18 17:22:18,085 INFO check master db.
+
+2019-04-18 17:22:24,763 INFO check db health.
+
+2019-04-18 17:22:28,089 INFO check master db.
+
+2019-04-18 17:22:34,746 INFO check db health.
+
+2019-04-18 17:22:38,076 INFO check master db.
+
+2019-04-18 17:22:44,752 INFO check db health.
+
+2019-04-18 17:22:48,083 INFO check master db.
+
+2019-04-18 17:22:54,756 INFO check db health.
+
+2019-04-18 17:22:58,089 INFO check master db.
+
+2019-04-18 17:23:04,739 INFO check db health.
+
+2019-04-18 17:23:08,073 INFO check master db.
+
+2019-04-18 17:23:14,743 INFO check db health.
+
+2019-04-18 17:23:18,077 INFO check master db.
+
+2019-04-18 17:23:24,753 INFO check db health.
+
+2019-04-18 17:23:28,083 INFO check master db.
+
+2019-04-18 17:23:34,737 INFO check db health.
+
+2019-04-18 17:23:38,064 INFO check master db.
+
+2019-04-18 17:23:44,744 INFO check db health.
+
+2019-04-18 17:23:48,069 INFO check master db.
+
+2019-04-18 17:23:54,753 INFO check db health.
+
+2019-04-18 17:23:58,074 INFO check master db.
+
+2019-04-18 17:24:04,736 INFO check db health.
+
+2019-04-18 17:24:08,064 INFO check master db.
+
+2019-04-18 17:24:14,738 INFO check db health.
+
+2019-04-18 17:24:18,077 INFO check master db.
+
+2019-04-18 17:24:24,743 INFO check db health.
+
+2019-04-18 17:24:28,081 INFO check master db.
+
+2019-04-18 17:24:34,726 INFO check db health.
+
+2019-04-18 17:24:38,067 INFO check master db.
+
+2019-04-18 17:24:44,730 INFO check db health.
+
+2019-04-18 17:24:48,070 INFO check master db.
+
+2019-04-18 17:24:54,735 INFO check db health.
+
+2019-04-18 17:24:58,075 INFO check master db.
+
+2019-04-18 17:25:04,720 INFO check db health.
+
+2019-04-18 17:25:08,056 INFO check master db.
+
+2019-04-18 17:25:14,728 INFO check db health.
+
+2019-04-18 17:25:18,061 INFO check master db.
+
+2019-04-18 17:25:24,734 INFO check db health.
+
+2019-04-18 17:25:28,065 INFO check master db.
+
+2019-04-18 17:25:34,720 INFO check db health.
+
+2019-04-18 17:25:38,049 INFO check master db.
+
+2019-04-18 17:25:44,725 INFO check db health.
+
+2019-04-18 17:25:48,053 INFO check master db.
+
+2019-04-18 17:25:54,732 INFO check db health.
+
+2019-04-18 17:25:58,059 INFO check master db.
+
+2019-04-18 17:26:04,717 INFO check db health.
+
+2019-04-18 17:26:08,041 INFO check master db.
+
+2019-04-18 17:26:14,723 INFO check db health.
+
+2019-04-18 17:26:18,050 INFO check master db.
+
+2019-04-18 17:26:24,729 INFO check db health.
+
+2019-04-18 17:26:28,055 INFO check master db.
+
+2019-04-18 17:26:34,715 INFO check db health.
+
+2019-04-18 17:26:38,039 INFO check master db.
+
+2019-04-18 17:26:44,722 INFO check db health.
+
+2019-04-18 17:26:48,046 INFO check master db.
+
+2019-04-18 17:26:54,731 INFO check db health.
+
+2019-04-18 17:26:58,051 INFO check master db.
+
+2019-04-18 17:27:04,714 INFO check db health.
+
+2019-04-18 17:27:08,046 INFO check master db.
+
+2019-04-18 17:27:14,718 INFO check db health.
+
+2019-04-18 17:27:18,057 INFO check master db.
+
+2019-04-18 17:27:24,730 INFO check db health.
+
+2019-04-18 17:27:28,061 INFO check master db.
+
+2019-04-18 17:27:34,717 INFO check db health.
+
+2019-04-18 17:27:38,045 INFO check master db.
+
+2019-04-18 17:27:44,725 INFO check db health.
+
+2019-04-18 17:27:48,050 INFO check master db.
+
+2019-04-18 17:27:54,732 INFO check db health.
+
+2019-04-18 17:27:58,057 INFO check master db.
+
+2019-04-18 17:28:04,717 INFO check db health.
+
+2019-04-18 17:28:08,041 INFO check master db.
+
+2019-04-18 17:28:14,724 INFO check db health.
+
+2019-04-18 17:28:18,045 INFO check master db.
+
+2019-04-18 17:28:24,730 INFO check db health.
+
+2019-04-18 17:28:28,049 INFO check master db.
+
+2019-04-18 17:28:34,723 INFO check db health.
+
+2019-04-18 17:28:38,032 INFO check master db.
+
+2019-04-18 17:28:44,731 INFO check db health.
+
+2019-04-18 17:28:48,040 INFO check master db.
+
+2019-04-18 17:28:54,737 INFO check db health.
+
+2019-04-18 17:28:58,044 INFO check master db.
+
+2019-04-18 17:29:04,731 INFO check db health.
+
+2019-04-18 17:29:08,026 INFO check master db.
+
+2019-04-18 17:29:14,736 INFO check db health.
+
+2019-04-18 17:29:18,029 INFO check master db.
+
+2019-04-18 17:29:24,741 INFO check db health.
+
+2019-04-18 17:29:28,034 INFO check master db.
+
+2019-04-18 17:56:20,833 INFO notifyConnectTimeout:200
+
+2019-04-18 17:56:20,835 INFO notifySocketTimeout:8000
+
+2019-04-18 17:56:20,835 INFO isHealthCheck:true
+
+2019-04-18 17:56:20,836 INFO maxHealthCheckFailCount:12
+
+2019-04-18 17:56:20,837 INFO maxContent:10485760
+
+2019-04-18 17:56:20,838 INFO spring.datasource.platform:mysql
+
+2019-04-18 17:56:20,878 INFO check master db.
+
+2019-04-18 17:56:29,358 INFO check db health.
+
+2019-04-18 17:56:37,527 WARN DumpService start
+
+2019-04-18 17:56:37,536 INFO start clear all config-info.
+
+2019-04-18 17:56:37,541 WARN clear all config-info failed.
+
+2019-04-18 17:56:37,541 WARN clear all config-info-tenant failed.
+
+2019-04-18 17:56:47,694 INFO notifyConnectTimeout:200
+
+2019-04-18 17:56:47,696 INFO notifySocketTimeout:8000
+
+2019-04-18 17:56:47,696 INFO isHealthCheck:true
+
+2019-04-18 17:56:47,696 INFO maxHealthCheckFailCount:12
+
+2019-04-18 17:56:47,697 INFO maxContent:10485760
+
+2019-04-18 17:56:47,698 INFO spring.datasource.platform:mysql
+
+2019-04-18 17:56:47,736 INFO check master db.
+
+2019-04-18 17:56:56,083 INFO check db health.
+
+2019-04-18 17:57:04,192 WARN DumpService start
+
+2019-04-18 17:57:04,204 INFO start clear all config-info.
+
+2019-04-18 17:57:04,209 WARN clear all config-info failed.
+
+2019-04-18 17:57:04,209 WARN clear all config-info-tenant failed.
+
+2019-04-18 17:57:13,942 INFO notifyConnectTimeout:200
+
+2019-04-18 17:57:13,950 INFO notifySocketTimeout:8000
+
+2019-04-18 17:57:13,951 INFO isHealthCheck:true
+
+2019-04-18 17:57:13,951 INFO maxHealthCheckFailCount:12
+
+2019-04-18 17:57:13,952 INFO maxContent:10485760
+
+2019-04-18 17:57:13,954 INFO spring.datasource.platform:mysql
+
+2019-04-18 17:57:14,003 INFO check master db.
+
+2019-04-18 17:57:22,356 INFO check db health.
+
+2019-04-18 17:57:30,507 WARN DumpService start
+
+2019-04-18 17:57:30,517 INFO start clear all config-info.
+
+2019-04-18 17:57:30,531 WARN clear all config-info failed.
+
+2019-04-18 17:57:30,532 WARN clear all config-info-tenant failed.
+
+2019-04-18 17:57:41,115 INFO notifyConnectTimeout:200
+
+2019-04-18 17:57:41,116 INFO notifySocketTimeout:8000
+
+2019-04-18 17:57:41,117 INFO isHealthCheck:true
+
+2019-04-18 17:57:41,117 INFO maxHealthCheckFailCount:12
+
+2019-04-18 17:57:41,118 INFO maxContent:10485760
+
+2019-04-18 17:57:41,119 INFO spring.datasource.platform:mysql
+
+2019-04-18 17:57:41,180 INFO check master db.
+
+2019-04-18 17:57:49,501 INFO check db health.
+
+2019-04-18 17:57:57,665 WARN DumpService start
+
+2019-04-18 17:57:57,670 INFO start clear all config-info.
+
+2019-04-18 17:57:57,675 WARN clear all config-info failed.
+
+2019-04-18 17:57:57,675 WARN clear all config-info-tenant failed.
+
+2019-04-18 17:59:04,477 INFO notifyConnectTimeout:200
+
+2019-04-18 17:59:04,478 INFO notifySocketTimeout:8000
+
+2019-04-18 17:59:04,479 INFO isHealthCheck:true
+
+2019-04-18 17:59:04,479 INFO maxHealthCheckFailCount:12
+
+2019-04-18 17:59:04,480 INFO maxContent:10485760
+
+2019-04-18 17:59:04,481 INFO spring.datasource.platform:""
+
+2019-04-18 17:59:06,076 WARN DumpService start
+
+2019-04-18 17:59:06,091 INFO start clear all config-info.
+
+2019-04-18 17:59:06,096 WARN clear all config-info failed.
+
+2019-04-18 17:59:06,098 WARN clear all config-info-tenant failed.
+
+2019-04-18 17:59:06,174 INFO start clear all config-info-beta.
+
+2019-04-18 17:59:06,175 WARN clear all config-info-beta failed.
+
+2019-04-18 17:59:06,176 WARN clear all config-info-beta-tenant failed.
+
+2019-04-18 17:59:06,193 INFO start clear all config-info-tag.
+
+2019-04-18 17:59:06,193 WARN clear all config-info-tag failed.
+
+2019-04-18 17:59:06,194 WARN clear all config-info-tag-tenant failed.
+
+2019-04-18 17:59:06,571 INFO ServerListService address-server port:8848
+
+2019-04-18 17:59:06,571 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-04-18 17:59:06,576 WARN [serverlist] updated to [ca7960d291f6]
+
+2019-04-18 17:59:37,863 INFO notifyConnectTimeout:200
+
+2019-04-18 17:59:37,871 INFO notifySocketTimeout:8000
+
+2019-04-18 17:59:37,872 INFO isHealthCheck:true
+
+2019-04-18 17:59:37,872 INFO maxHealthCheckFailCount:12
+
+2019-04-18 17:59:37,874 INFO maxContent:10485760
+
+2019-04-18 17:59:37,875 INFO spring.datasource.platform:mysql
+
+2019-04-18 17:59:37,931 INFO check master db.
+
+2019-04-18 17:59:46,237 INFO check db health.
+
+2019-04-18 17:59:54,437 WARN DumpService start
+
+2019-04-18 17:59:54,443 INFO start clear all config-info.
+
+2019-04-18 17:59:54,448 WARN clear all config-info failed.
+
+2019-04-18 17:59:54,448 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:00:04,601 INFO notifyConnectTimeout:200
+
+2019-04-18 18:00:04,603 INFO notifySocketTimeout:8000
+
+2019-04-18 18:00:04,604 INFO isHealthCheck:true
+
+2019-04-18 18:00:04,604 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:00:04,606 INFO maxContent:10485760
+
+2019-04-18 18:00:04,608 INFO spring.datasource.platform:mysql
+
+2019-04-18 18:00:04,669 INFO check master db.
+
+2019-04-18 18:00:12,969 INFO check db health.
+
+2019-04-18 18:00:21,199 WARN DumpService start
+
+2019-04-18 18:00:21,206 INFO start clear all config-info.
+
+2019-04-18 18:00:21,212 WARN clear all config-info failed.
+
+2019-04-18 18:00:21,213 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:00:32,019 INFO notifyConnectTimeout:200
+
+2019-04-18 18:00:32,020 INFO notifySocketTimeout:8000
+
+2019-04-18 18:00:32,021 INFO isHealthCheck:true
+
+2019-04-18 18:00:32,021 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:00:32,022 INFO maxContent:10485760
+
+2019-04-18 18:00:32,023 INFO spring.datasource.platform:mysql
+
+2019-04-18 18:00:32,063 INFO check master db.
+
+2019-04-18 18:00:40,343 INFO check db health.
+
+2019-04-18 18:00:48,490 WARN DumpService start
+
+2019-04-18 18:00:48,495 INFO start clear all config-info.
+
+2019-04-18 18:00:48,500 WARN clear all config-info failed.
+
+2019-04-18 18:00:48,500 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:00:58,675 INFO notifyConnectTimeout:200
+
+2019-04-18 18:00:58,677 INFO notifySocketTimeout:8000
+
+2019-04-18 18:00:58,678 INFO isHealthCheck:true
+
+2019-04-18 18:00:58,678 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:00:58,679 INFO maxContent:10485760
+
+2019-04-18 18:00:58,682 INFO spring.datasource.platform:mysql
+
+2019-04-18 18:00:58,733 INFO check master db.
+
+2019-04-18 18:01:07,057 INFO check db health.
+
+2019-04-18 18:01:15,257 WARN DumpService start
+
+2019-04-18 18:01:15,275 INFO start clear all config-info.
+
+2019-04-18 18:01:15,281 WARN clear all config-info failed.
+
+2019-04-18 18:01:15,281 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:01:25,730 INFO notifyConnectTimeout:200
+
+2019-04-18 18:01:25,732 INFO notifySocketTimeout:8000
+
+2019-04-18 18:01:25,732 INFO isHealthCheck:true
+
+2019-04-18 18:01:25,733 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:01:25,733 INFO maxContent:10485760
+
+2019-04-18 18:01:25,735 INFO spring.datasource.platform:mysql
+
+2019-04-18 18:01:25,776 INFO check master db.
+
+2019-04-18 18:01:34,277 INFO check db health.
+
+2019-04-18 18:01:42,456 WARN DumpService start
+
+2019-04-18 18:01:42,462 INFO start clear all config-info.
+
+2019-04-18 18:01:42,466 WARN clear all config-info failed.
+
+2019-04-18 18:01:42,467 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:01:53,221 INFO notifyConnectTimeout:200
+
+2019-04-18 18:01:53,223 INFO notifySocketTimeout:8000
+
+2019-04-18 18:01:53,223 INFO isHealthCheck:true
+
+2019-04-18 18:01:53,224 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:01:53,225 INFO maxContent:10485760
+
+2019-04-18 18:01:53,226 INFO spring.datasource.platform:mysql
+
+2019-04-18 18:01:53,274 INFO check master db.
+
+2019-04-18 18:02:01,505 INFO check db health.
+
+2019-04-18 18:02:09,703 WARN DumpService start
+
+2019-04-18 18:02:09,720 INFO start clear all config-info.
+
+2019-04-18 18:02:09,725 WARN clear all config-info failed.
+
+2019-04-18 18:02:09,726 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:02:20,319 INFO notifyConnectTimeout:200
+
+2019-04-18 18:02:20,321 INFO notifySocketTimeout:8000
+
+2019-04-18 18:02:20,322 INFO isHealthCheck:true
+
+2019-04-18 18:02:20,322 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:02:20,323 INFO maxContent:10485760
+
+2019-04-18 18:02:20,325 INFO spring.datasource.platform:mysql
+
+2019-04-18 18:02:20,379 INFO check master db.
+
+2019-04-18 18:02:29,741 INFO check db health.
+
+2019-04-18 18:02:40,898 WARN DumpService start
+
+2019-04-18 18:02:40,914 INFO start clear all config-info.
+
+2019-04-18 18:02:40,922 WARN clear all config-info failed.
+
+2019-04-18 18:02:40,923 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:04:30,074 INFO notifyConnectTimeout:200
+
+2019-04-18 18:04:30,077 INFO notifySocketTimeout:8000
+
+2019-04-18 18:04:30,078 INFO isHealthCheck:true
+
+2019-04-18 18:04:30,079 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:04:30,080 INFO maxContent:10485760
+
+2019-04-18 18:04:30,081 INFO spring.datasource.platform:""
+
+2019-04-18 18:04:31,792 WARN DumpService start
+
+2019-04-18 18:04:31,797 INFO start clear all config-info.
+
+2019-04-18 18:04:31,801 WARN clear all config-info failed.
+
+2019-04-18 18:04:31,802 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:04:31,878 INFO start clear all config-info-beta.
+
+2019-04-18 18:04:31,879 WARN clear all config-info-beta failed.
+
+2019-04-18 18:04:31,880 WARN clear all config-info-beta-tenant failed.
+
+2019-04-18 18:04:31,891 INFO start clear all config-info-tag.
+
+2019-04-18 18:04:31,892 WARN clear all config-info-tag failed.
+
+2019-04-18 18:04:31,892 WARN clear all config-info-tag-tenant failed.
+
+2019-04-18 18:04:32,144 INFO ServerListService address-server port:8848
+
+2019-04-18 18:04:32,144 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-04-18 18:04:32,145 WARN [serverlist] updated to [d4cecf6a593b]
+
+2019-04-18 18:23:59,550 INFO notifyConnectTimeout:200
+
+2019-04-18 18:23:59,559 INFO notifySocketTimeout:8000
+
+2019-04-18 18:23:59,560 INFO isHealthCheck:true
+
+2019-04-18 18:23:59,560 INFO maxHealthCheckFailCount:12
+
+2019-04-18 18:23:59,562 INFO maxContent:10485760
+
+2019-04-18 18:23:59,564 INFO spring.datasource.platform:""
+
+2019-04-18 18:24:01,738 WARN DumpService start
+
+2019-04-18 18:24:01,744 INFO start clear all config-info.
+
+2019-04-18 18:24:01,749 WARN clear all config-info failed.
+
+2019-04-18 18:24:01,750 WARN clear all config-info-tenant failed.
+
+2019-04-18 18:24:01,841 INFO start clear all config-info-beta.
+
+2019-04-18 18:24:01,842 WARN clear all config-info-beta failed.
+
+2019-04-18 18:24:01,843 WARN clear all config-info-beta-tenant failed.
+
+2019-04-18 18:24:01,855 INFO start clear all config-info-tag.
+
+2019-04-18 18:24:01,855 WARN clear all config-info-tag failed.
+
+2019-04-18 18:24:01,856 WARN clear all config-info-tag-tenant failed.
+
+2019-04-18 18:24:02,140 INFO ServerListService address-server port:8848
+
+2019-04-18 18:24:02,141 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-04-18 18:24:02,142 WARN [serverlist] updated to [b4bee4ba3b08]
+
